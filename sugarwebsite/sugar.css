@@ -1,0 +1,58 @@
+.p1 {
+    font-family: "Comic Sans MS";
+}
+
+.p2 {
+    font-family: "Comic Sans MS";
+}
+
+.p3 {
+    font-family: "Comic Sans MS";
+}
+div{
+    background-color: aqua;
+}
+.divtext {
+    background-color: brown;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.mycontainer {
+    width:100%;
+    overflow:auto;
+}
+.mycontainer div {
+    width: 40%;  
+    float:left;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.adiv{
+    text-align: center;
+    background-color: grey;
+    
+}
+a:link {
+    color: lime;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
